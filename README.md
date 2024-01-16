@@ -33,6 +33,7 @@ INSERT INTO Students (StudentName) VALUES
 ('Bob'),
 ('Charlie'),
 ('David');
+```
 
 ``` SQL
 INSERT INTO Courses VALUES
